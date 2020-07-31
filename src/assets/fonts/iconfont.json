@@ -1,0 +1,58 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "11488248",
+      "name": "Customer management-fill",
+      "font_class": "Customermanagement-fill",
+      "unicode": "e77c",
+      "unicode_decimal": 59260
+    },
+    {
+      "icon_id": "11488257",
+      "name": "feeds-fill",
+      "font_class": "feeds-fill",
+      "unicode": "e77f",
+      "unicode_decimal": 59263
+    },
+    {
+      "icon_id": "11488273",
+      "name": "integral-fill",
+      "font_class": "integral-fill",
+      "unicode": "e782",
+      "unicode_decimal": 59266
+    },
+    {
+      "icon_id": "11488282",
+      "name": "New user zone-fill",
+      "font_class": "Newuserzone-fill",
+      "unicode": "e784",
+      "unicode_decimal": 59268
+    },
+    {
+      "icon_id": "11488289",
+      "name": "password",
+      "font_class": "password",
+      "unicode": "e786",
+      "unicode_decimal": 59270
+    },
+    {
+      "icon_id": "11488305",
+      "name": "product",
+      "font_class": "product",
+      "unicode": "e788",
+      "unicode_decimal": 59272
+    },
+    {
+      "icon_id": "15363460",
+      "name": "userAvatar",
+      "font_class": "OOjs_UI_icon_userAvatar",
+      "unicode": "e610",
+      "unicode_decimal": 58896
+    }
+  ]
+}
